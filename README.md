@@ -18,3 +18,8 @@ Home PC와 회사 PC의 vscode에 각각 github와 연동했음.
 5. ...  선택 후 sync
 
 해당 내용이 맞는지는 확인 필요
+
+
+#yjs 추가 _ 2020102#
+git config --global user.email "메일"
+git remote add origin "주소"
