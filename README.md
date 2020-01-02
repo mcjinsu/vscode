@@ -7,4 +7,4 @@ Home PC와 회사 PC의 vscode에 각각 github와 연동했음.
 
 이건 github에서 작성 -> vscode 로 옮겨지나 확인
 
-hello
+hello!
