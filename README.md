@@ -24,3 +24,8 @@ Home PC와 회사 PC의 vscode에 각각 github와 연동했음.
 확인
 git config --global user.email "메일"
 git remote add origin "주소"
+
+
+# Github pull 방법 #
+소스제어에서 풀 누름
+
